@@ -1,0 +1,10 @@
+streamlit
+numpy
+scipy
+requests
+pandas
+matplotlib
+yfinance
+plotly
+arch
+ib_insync
