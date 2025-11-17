@@ -61,6 +61,3 @@ run.bat
 ```
 
 This will open a menu in your terminal allowing you to select which calculator to run.
-arch
-ib_insync
-```
